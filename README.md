@@ -1,1 +1,1 @@
-# lc_exercises
+# solutions to leetcode exercises
